@@ -1,0 +1,29 @@
+.login {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 30%;
+    height: 30%;
+    align-content: center;
+    background-color: palevioletred;
+    border-radius: 10px;
+}
+.title {
+    color: snow ;
+}
+.input {
+    width: 300px;
+    margin-left: 40px;
+}
+.btnLogin {
+    width: 30%;
+    height: 30%;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+.btnSignUp {
+    width: 30%;
+    height: 30%;
+    margin-bottom: 10px;
+}

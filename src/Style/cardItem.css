@@ -1,0 +1,22 @@
+.card-item:hover {
+    background-color: green ;
+}
+.card-item {
+    width: 60%;
+    height: 100%;
+    border: solid green 1px;
+    border-radius: 5px;
+}
+.card-container {
+    width: 30%;
+    height: 70%;
+    margin: 5px;
+}
+#hinh {
+    width: 50%;
+    height: 50%;
+}
+#soTien {
+    font-size: 150%;
+    color: brown;
+}
